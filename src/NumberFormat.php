@@ -1,9 +1,8 @@
 <?php
 /**
  * 数字格式化类
- * @author XinLiang
+ * @author luozhou
  */
-
 namespace numberFormat;
 
 class NumberFormat
